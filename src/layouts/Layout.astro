@@ -1,0 +1,43 @@
+---
+interface Props {
+	title: string;
+}
+
+const { title } = Astro.props;
+---
+
+<!doctype html>
+<html lang="fr">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="description" content="Agence d'automatisation leader en France" />
+		<meta name="viewport" content="width=device-width" />
+		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+		<meta name="generator" content={Astro.generator} />
+		<link rel="preconnect" href="https://fonts.googleapis.com">
+		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+		<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+		<title>{title}</title>
+	</head>
+	<body>
+		<slot />
+	</body>
+</html>
+<style is:global>
+	:root {
+		--primary: 23, 37, 84;
+		--accent: 79, 70, 229;
+		--text: 31, 41, 55;
+		--background: 249, 250, 251;
+	}
+	html {
+		font-family: 'Space Grotesk', system-ui, sans-serif;
+		background: rgb(var(--background));
+		color: rgb(var(--text));
+		scroll-behavior: smooth;
+	}
+	body {
+		margin: 0;
+		padding: 0;
+	}
+</style>

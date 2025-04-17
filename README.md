@@ -4,7 +4,7 @@
 
 
 
-# 🌐 Gaussia — Data, Automation & Cloud Solutions
+# Gaussia — Data, Automation & Cloud Solutions
 
 Avec **Gaussia** ,Libérez le potentiel de vos données. Automatisez. Décidez plus vite.
 Expert Data & Automatisation pour entreprises ambitieuses.t.  
@@ -12,7 +12,7 @@ Expert Data & Automatisation pour entreprises ambitieuses.t.
 
 
 
-## 🚀 Objectif
+## Objectif
 
 Aider les PME, startups et e-commerçants à :
 - Exploiter leurs données (BI, dashboards, reporting automatisé)
@@ -22,31 +22,31 @@ Aider les PME, startups et e-commerçants à :
 
 
 
-## 🧠 Services proposés
+## Services proposés
 
  - Dashboards & Reporting Automatisés  
  - Data Science & Prédiction (churn, scoring, NLP)  
- - Cloud Data Engineering**  
+ - Cloud Data Engineering
  - Automatisation No-code / Low-code (n8n, Zapier, Make) 
  - RPA & Scripts Python pour tâches récurrentes
 
 
 
-## 🛠️ Stack utilisée pour le site
+## Stack utilisée pour le site
 
-- **Bolt** (builder no-code initial)
-- **HTML / CSS / JS** (modifié manuellement)
-- **Hébergé avec GitHub Pages**
-
+- **React, TypeScript** 
+- **HTML / TailwindCSS / JS**
 
 
-## 🌍 Voir le site en ligne
+
+
+## Voir le site en ligne
 
 🔗 [https://rayane-45.github.io/Gaussia/](https://rayane-45.github.io/Gaussia/)
 
 
 
-## 📬 Me contacter
+## Nous contacter
 
 Pour toute mission, projet ou collaboration :
 - 📧 

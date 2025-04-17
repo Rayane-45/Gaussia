@@ -1,7 +1,11 @@
+                  ![Logo de Gaussia](./logoG.png)
+
+
 # 🌐 Gaussia — Data, Automation & Cloud Solutions
 
-**Gaussia** est mon site vitrine professionnel en tant que Freelance Data Analyst, Data Scientist & Automatisation Expert.  
-Il présente mes services, mes projets, et ma vision de la data comme levier de croissance pour les entreprises modernes.
+Avec **Gaussia** ,Libérez le potentiel de vos données. Automatisez. Décidez plus vite.
+Expert Data & Automatisation pour entreprises ambitieuses.t.  
+
 
 
 

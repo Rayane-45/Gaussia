@@ -17,11 +17,11 @@ Aider les PME, startups et e-commerçants à :
 
 ## 🧠 Services proposés
 
- **Dashboards & Reporting Automatisés**  
- **Data Science & Prédiction (churn, scoring, NLP)**  
- **Cloud Data Engineering**  
- **Automatisation No-code / Low-code (n8n, Zapier, Make)**  
- **RPA & Scripts Python pour tâches récurrentes**
+ **- Dashboards & Reporting Automatisés**  
+ **- Data Science & Prédiction (churn, scoring, NLP)**  
+ **- Cloud Data Engineering**  
+ **- Automatisation No-code / Low-code (n8n, Zapier, Make)**  
+ **- RPA & Scripts Python pour tâches récurrentes**
 
 
 

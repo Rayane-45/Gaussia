@@ -1,55 +1,50 @@
-# Astro Starter Kit: Basics
+# 🌐 Gaussia — Data, Automation & Cloud Solutions
 
-```sh
-npm create astro@latest -- --template basics
-```
+**Gaussia** est mon site vitrine professionnel en tant que Freelance Data Analyst, Data Scientist & Automatisation Expert.  
+Il présente mes services, mes projets, et ma vision de la data comme levier de croissance pour les entreprises modernes.
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/withastro/astro/tree/latest/examples/basics)
-[![Open with CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/p/sandbox/github/withastro/astro/tree/latest/examples/basics)
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/withastro/astro?devcontainer_path=.devcontainer/basics/devcontainer.json)
 
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
 
-![just-the-basics](https://github.com/withastro/astro/assets/2244813/a0a5533c-a856-4198-8470-2d67b1d7c554)
+## 🚀 Objectif
 
-## 🚀 Project Structure
+Aider les PME, startups et e-commerçants à :
+- Exploiter leurs données (BI, dashboards, reporting automatisé)
+- Prédire leurs résultats (modèles ML, data science)
+- Automatiser leurs process (RPA, no-code, scripts Python)
+- Migrer et gérer leurs données dans le cloud (GCP, AWS, Azure)
 
-Inside of your Astro project, you'll see the following folders and files:
 
-```text
-/
-├── public/
-│   └── favicon.svg
-├── src/
-│   ├── components/
-│   │   └── Card.astro
-│   ├── layouts/
-│   │   └── Layout.astro
-│   └── pages/
-│       └── index.astro
-└── package.json
-```
 
-Astro looks for `.astro` or `.md` files in the `src/pages/` directory. Each page is exposed as a route based on its file name.
+## 🧠 Services proposés
 
-There's nothing special about `src/components/`, but that's where we like to put any Astro/React/Vue/Svelte/Preact components.
+- **Dashboards & Reporting Automatisés**  
+- **Data Science & Prédiction (churn, scoring, NLP)**  
+- **Cloud Data Engineering**  
+- **Automatisation No-code / Low-code (n8n, Zapier, Make)**  
+- **RPA & Scripts Python pour tâches récurrentes**
 
-Any static assets, like images, can be placed in the `public/` directory.
 
-## 🧞 Commands
 
-All commands are run from the root of the project, from a terminal:
+## 🛠️ Stack utilisée pour le site
 
-| Command                   | Action                                           |
-| :------------------------ | :----------------------------------------------- |
-| `npm install`             | Installs dependencies                            |
-| `npm run dev`             | Starts local dev server at `localhost:4321`      |
-| `npm run build`           | Build your production site to `./dist/`          |
-| `npm run preview`         | Preview your build locally, before deploying     |
-| `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
-| `npm run astro -- --help` | Get help using the Astro CLI                     |
+- **Bolt** (builder no-code initial)
+- **HTML / CSS / JS** (modifié manuellement)
+- **Hébergé avec GitHub Pages**
 
-## 👀 Want to learn more?
 
-Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
-# Gaussia
+
+## 🌍 Voir le site en ligne
+
+🔗 [https://rayane-45.github.io/Gaussia/](https://rayane-45.github.io/Gaussia/)
+
+
+
+## 📬 Me contacter
+
+Pour toute mission, projet ou collaboration :
+- 📧 rayane.freelance@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/ton-lien-linkedin)
+
+
+
+

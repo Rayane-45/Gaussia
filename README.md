@@ -1,4 +1,4 @@
-                 <p align="center">
+<p align="center">
   <img src="./public/logoG.png" alt="Logo Gaussia" width="180"/>
 </p>
 

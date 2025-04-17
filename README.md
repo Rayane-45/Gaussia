@@ -17,11 +17,11 @@ Aider les PME, startups et e-commerçants à :
 
 ## 🧠 Services proposés
 
-- **Dashboards & Reporting Automatisés**  
-- **Data Science & Prédiction (churn, scoring, NLP)**  
-- **Cloud Data Engineering**  
-- **Automatisation No-code / Low-code (n8n, Zapier, Make)**  
-- **RPA & Scripts Python pour tâches récurrentes**
+ **Dashboards & Reporting Automatisés**  
+ **Data Science & Prédiction (churn, scoring, NLP)**  
+ **Cloud Data Engineering**  
+ **Automatisation No-code / Low-code (n8n, Zapier, Make)**  
+ **RPA & Scripts Python pour tâches récurrentes**
 
 
 
@@ -42,7 +42,7 @@ Aider les PME, startups et e-commerçants à :
 ## 📬 Me contacter
 
 Pour toute mission, projet ou collaboration :
-- 📧 rayane.freelance@gmail.com
+- 📧 
 - 💼 [LinkedIn](https://www.linkedin.com/in/ton-lien-linkedin)
 
 

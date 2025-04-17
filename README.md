@@ -1,4 +1,7 @@
-                  ![Logo de Gaussia](./logoG.png)
+                 <p align="center">
+  <img src="./public/logoG.png" alt="Logo Gaussia" width="180"/>
+</p>
+
 
 
 # 🌐 Gaussia — Data, Automation & Cloud Solutions

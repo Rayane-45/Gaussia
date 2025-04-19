@@ -27,8 +27,8 @@ Aider les PME, startups et e-commerçants à :
 
 ## 🛠️ Stack utilisée pour le site
 
-- **Bolt** (builder no-code initial)
-- **HTML / CSS / JS** (modifié manuellement)
+- **React, TypeScript** 
+- **HTML / CSS / JS**
 - **Hébergé avec GitHub Pages**
 
 

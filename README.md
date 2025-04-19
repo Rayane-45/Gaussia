@@ -38,7 +38,6 @@ Aider les PME, startups et e-commerçants à :
 
 - **HTML / CSS / JS**
 - **Hébergé avec GitHub Pages**
-=======
 - **HTML / TailwindCSS / JS**
 
 

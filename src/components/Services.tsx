@@ -1,4 +1,4 @@
-import React from 'react';
+
 import { useLanguage } from '../hooks/useLanguage';
 import { translations } from '../types';
 import { LineChart, Brain, Cloud, Zap } from 'lucide-react';

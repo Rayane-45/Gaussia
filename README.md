@@ -1,11 +1,18 @@
-# 🌐 Gaussia — Data, Automation & Cloud Solutions
-
-**Gaussia** est mon site vitrine professionnel en tant que Freelance Data Analyst, Data Scientist & Automatisation Expert.  
-Il présente mes services, mes projets, et ma vision de la data comme levier de croissance pour les entreprises modernes.
-
+<p align="center">
+  <img src="./public/logoG.png" alt="Logo Gaussia" width="180"/>
+</p>
 
 
-## 🚀 Objectif
+
+# Data, Automation & Cloud Solutions
+
+Avec **Gaussia** ,Libérez le potentiel de vos données. Automatisez. Décidez plus vite.
+Expert Data & Automatisation pour entreprises ambitieuses.t.  
+
+
+
+
+## Objectif
 
 Aider les PME, startups et e-commerçants à :
 - Exploiter leurs données (BI, dashboards, reporting automatisé)
@@ -15,31 +22,36 @@ Aider les PME, startups et e-commerçants à :
 
 
 
-## 🧠 Services proposés
+## Services proposés
 
  - Dashboards & Reporting Automatisés  
  - Data Science & Prédiction (churn, scoring, NLP)  
- - Cloud Data Engineering**  
+ - Cloud Data Engineering
  - Automatisation No-code / Low-code (n8n, Zapier, Make) 
  - RPA & Scripts Python pour tâches récurrentes
 
 
 
-## 🛠️ Stack utilisée pour le site
+## Stack utilisée pour le site
 
 - **React, TypeScript** 
+<<<<<<< HEAD
 - **HTML / CSS / JS**
 - **Hébergé avec GitHub Pages**
+=======
+- **HTML / TailwindCSS / JS**
+>>>>>>> 062504b93f2e0374f886d402e6ae0bd0be1d9a2a
 
 
 
-## 🌍 Voir le site en ligne
+
+## Voir le site en ligne
 
 🔗 [https://rayane-45.github.io/Gaussia/](https://rayane-45.github.io/Gaussia/)
 
 
 
-## 📬 Me contacter
+## Nous contacter
 
 Pour toute mission, projet ou collaboration :
 - 📧 

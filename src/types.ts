@@ -36,6 +36,29 @@ export interface Translation {
       };
     };
   };
+  contact: {
+    title: string;
+    subtitle: string;
+    form: {
+      nom:{
+        title: string;
+        placeHolder: string;
+      }
+      email: {
+        title: string;
+        placeHolder: string;
+      }
+      phone: {
+        title: string;
+        placeHolder: string;
+      }
+      msg: {
+        title: string;
+        placeHolder: string;
+      }
+    },
+    btn: string
+  }
 }
 
 export const translations: Record<Language, Translation> = {
@@ -45,7 +68,7 @@ export const translations: Record<Language, Translation> = {
       subtitle: 'Expert Data & Automatisation pour entreprises ambitieuses.',
       cta: {
         contact: 'Prendre contact',
-        contactLink: 'https://calendar.google.com/calendar/u/7/r?pli=1',
+        // contactLink: 'https://calendar.google.com/calendar/u/7/r?pli=1',
         services: 'Voir les services',
         project: 'Voir un projet'
       }
@@ -95,6 +118,29 @@ export const translations: Record<Language, Translation> = {
           ]
         }
       }
+    },
+    contact: {
+      title: "Entrer en contact",
+      subtitle: "Remplis le formulaire ci-dessous pour nous écrire.",
+      form: {
+        nom:{
+          title: "Nom",
+          placeHolder: "Votre nom"
+        },
+        email:{
+          title: "Email",
+          placeHolder: "votre@email.com"
+        },
+        phone:{
+          title: "Téléphone",
+          placeHolder: "+33 6 00 00 00 00"
+        },
+        msg:{
+          title: "Message",
+          placeHolder: "Écrivez votre message ici..."
+        }
+      },
+      btn: "Envoyer"
     }
   },
   en: {
@@ -152,6 +198,30 @@ export const translations: Record<Language, Translation> = {
           ]
         }
       }
+    },
+    contact: {
+      title: "Get in Touch",
+      subtitle: "Fill out the form below to write to us.",
+      form: {
+        nom: {
+          title: "Name",
+          placeHolder: "Your name"
+        },
+        email: {
+          title: "Email",
+          placeHolder: "your@email.com"
+        },
+        phone: {
+          title: "Phone",
+          placeHolder: "+1 123 456 7890"
+        },
+        msg: {
+          title: "Message",
+          placeHolder: "Write your message here..."
+        }
+      },
+      btn: "Send"
     }
+
   }
 };

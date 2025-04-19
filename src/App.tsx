@@ -1,10 +1,10 @@
-import React from 'react';
-import { LineChart } from 'lucide-react';
+
 import { LanguageProvider } from './hooks/useLanguage';
 import { ThemeToggle } from './components/ThemeToggle';
 import { LanguageToggle } from './components/LanguageToggle';
 import { Hero } from './components/Hero';
 import { Services } from './components/Services';
+import {Contact} from "./components/Contact.tsx";
 
 export default function App() {
   return (
@@ -33,6 +33,7 @@ export default function App() {
         <main>
           <Hero />
           <Services />
+          <Contact></Contact>
         </main>
       </div>
     </LanguageProvider>

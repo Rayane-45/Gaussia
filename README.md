@@ -35,12 +35,12 @@ Aider les PME, startups et e-commerçants à :
 ## Stack utilisée pour le site
 
 - **React, TypeScript** 
-<<<<<<< HEAD
+
 - **HTML / CSS / JS**
 - **Hébergé avec GitHub Pages**
 =======
 - **HTML / TailwindCSS / JS**
->>>>>>> 062504b93f2e0374f886d402e6ae0bd0be1d9a2a
+
 
 
 

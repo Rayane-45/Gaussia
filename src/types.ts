@@ -82,7 +82,7 @@ export const translations: Record<Language, Translation> = {
           description: 'Transformez vos données en insights actionnables avec des tableaux de bord automatisés et des visualisations impactantes.',
           features: [
             'Data Analytics & BI Reporting automatisé',
-            'Dashboards sur-mesure (Power BI / Google Data Studio / Streamlit)',
+            'Dashboards sur-mesure (Power BI / Looker / Streamlit)',
             'Data visualisation orientée business',
             'Data Quality / Data Cleaning / Structuration des données'
           ]

@@ -16,7 +16,7 @@ export default function App() {
             <div className="flex items-center gap-2">
               {/* Logo <LineChart className="w-6 h-6 text-blue-600 dark:text-blue-400" /> */}
               <img
-                  src="/logoG.png"
+                  src="logoG.png"
                    className="w-6 h-6 object-contain"
                  />
               <span className="font-semibold">Data - Automation - Cloud</span>

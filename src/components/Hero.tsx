@@ -65,7 +65,7 @@ export function Hero() {
               <a
                   onClick={(e) => {
                       e.preventDefault();
-                      smoothScrollTo('contact', 1200); // durée 1200ms = plus lent que le scroll natif
+                      smoothScrollTo('contact', 1000); // durée 1200ms = plus lent que le scroll natif
                   }}
                   className="px-8 py-4 bg-blue-600 hover:bg-blue-700 text-white rounded-full font-medium flex items-center gap-2 transition-colors cursor-pointer"
               >

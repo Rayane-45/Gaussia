@@ -7,7 +7,7 @@
 # Data, Automation & Cloud Solutions
 
 Avec **Gaussia** ,Libérez le potentiel de vos données. Automatisez. Décidez plus vite.
-Expert Data & Automatisation pour entreprises ambitieuses.t.  
+Expert Data & Automatisation pour entreprises ambitieuses
 
 
 
